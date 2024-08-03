@@ -1,4 +1,4 @@
-# AUITestAgent: Automatic Requirements Oriented GUI Function Testing
+# AUITestAgent: Automatic Natural Language-Driven GUI Response Testing for Mobile Apps
 
 ## RQ1 & RQ2    
 ### Benchmark
